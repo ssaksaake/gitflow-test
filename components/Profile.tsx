@@ -3,7 +3,7 @@ import React from "react";
 
 export const Profile = () => {
     return (
-        <div style={{ width: "500px", height: "500px", backgroundColor: "yellow" }}>
+        <div style={{ width: "400px", height: "400px", backgroundColor: "yellow" }}>
             <div>
                 <Image
                     alt="프로필 이미지"
@@ -12,7 +12,7 @@ export const Profile = () => {
                     }
                 />
             </div>
-            새싹쿵야
+            새싹쿵야 아니고 쿵쿵
         </div>
     );
 };
